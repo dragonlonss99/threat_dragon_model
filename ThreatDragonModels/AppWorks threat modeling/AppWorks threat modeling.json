@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "AppWorks threat modeling",
+    "owner": "Aaron, AnPing, Rosy, Lucy, Yana"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Rosy"
+      },
+      {
+        "name": "Yana"
+      },
+      {
+        "name": "Lucy"
+      },
+      {
+        "name": "AnPing"
+      }
+    ],
+    "diagrams": []
+  }
+}
