@@ -18,6 +18,12 @@
         "name": "AnPing"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "AppWorks",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
